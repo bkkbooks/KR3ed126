@@ -1,0 +1,374 @@
+canonical_identifier: bkk:krp/KR3ed126/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed126/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 濟世珍寶
+  identifiers:
+    krp: KR3ed126
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed126.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed126_000-jc.yaml, hash: 'sha256:ce1969898e7359604d1a422fce435fa52553787f7f6caaddc8e666217544cf8f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed126_000-jc.markers.yaml, hash: 'sha256:1429aacd3ae592eb14cdc68306fee384381293eaaa0b7b57cd6e7f93e4c81bf1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 8991
+  label: 二廣嗣要語本序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3d4
+    span:
+    - front
+    - 288
+    - 594
+  label: 總論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3d5
+    span:
+    - front
+    - 594
+    - 1003
+  label: 調理精血要論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3d6
+    span:
+    - front
+    - 1003
+    - 1584
+  label: 直指真元論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3d7
+    span:
+    - front
+    - 1584
+    - 2321
+  label: 男女服藥論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d7d4
+    span:
+    - front
+    - 1867
+    - 2014
+  label: 實陽能入虛陰之圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d7d5
+    span:
+    - front
+    - 2014
+    - 2092
+  label: 實陰不能受陽之圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d7d6
+    span:
+    - front
+    - 2092
+    - 2244
+  label: 微陽不能射陰之圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d7d7
+    span:
+    - front
+    - 2244
+    - 2321
+  label: 弱陰不能攝陽之圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3d8
+    span:
+    - front
+    - 2321
+    - 8991
+  label: 調元
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d4
+    span:
+    - front
+    - 2428
+    - 2522
+  label: 調經
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d5
+    span:
+    - front
+    - 2522
+    - 2664
+  label: 安胎
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d6
+    span:
+    - front
+    - 2664
+    - 2801
+  label: 便產
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d7
+    span:
+    - front
+    - 2801
+    - 2863
+  label: 交會宜忌日
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d8
+    span:
+    - front
+    - 2863
+    - 2948
+  label: 轉女成男法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d9
+    span:
+    - front
+    - 2948
+    - 5908
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d10
+    span:
+    - front
+    - 5908
+    - 7960
+  label: 補附廣嗣方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d11
+    span:
+    - front
+    - 7960
+    - 8037
+  label: 妊婦五忌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d12
+    span:
+    - front
+    - 8037
+    - 8237
+  label: 小兒五宜
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d3.d8d13
+    span:
+    - front
+    - 8237
+    - 8991
+  label: 延生第一方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1530
+  label: 一首篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d2d2
+    span:
+    - body
+    - 3
+    - 972
+  label: 西山真仙衛生歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d2d3
+    span:
+    - body
+    - 972
+    - 1284
+  label: 後衛生訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d2d4
+    span:
+    - body
+    - 1284
+    - 1530
+  label: 養生卻病歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4.h1s1
+    span:
+    - body
+    - 1530
+    - 6808
+  label: 三坎離種子神方敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d6
+    span:
+    - body
+    - 2192
+    - 2358
+  label: 論陰陽生育之道
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d7
+    span:
+    - body
+    - 2358
+    - 3774
+  label: 辨脈種子法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d8
+    span:
+    - body
+    - 3774
+    - 4086
+  label: 男子服藥調元論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d9
+    span:
+    - body
+    - 4086
+    - 4338
+  label: 先天歸一湯論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d10
+    span:
+    - body
+    - 4338
+    - 4671
+  label: 後天物化丸論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d11
+    span:
+    - body
+    - 4671
+    - 5156
+  label: 成男成女論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d12
+    span:
+    - body
+    - 5156
+    - 5603
+  label: 灸男婦無子穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d13
+    span:
+    - body
+    - 5603
+    - 6003
+  label: 奉天求嗣論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d4d14
+    span:
+    - body
+    - 6003
+    - 6808
+  label: 保胎五訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed126_jc_000-d5.h1s1
+    span:
+    - body
+    - 6808
+    - 7439
+  label: 附集
+  type: section
+  level: 1
+hash: sha256:0040cc8e3a345a84e12176c2efcf385f93d4a30269c1507c591bf79424879767
